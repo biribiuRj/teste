@@ -44,7 +44,6 @@ namespace ConsoleApp1
             Console.WriteLine("Dados da Conta Atualizados:");
             Console.WriteLine(c1);
 
-            Console.WriteLine();
 
         }
     }
